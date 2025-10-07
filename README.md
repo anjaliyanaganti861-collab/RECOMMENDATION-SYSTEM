@@ -24,3 +24,6 @@ This structured output is not only helpful in evaluating the system’s suggesti
 
 # OUTPUT
 
+<img width="1072" height="344" alt="Image" src="https://github.com/user-attachments/assets/5885f006-30c0-41e6-9acf-63c81b71b602" />
+
+<img width="940" height="343" alt="Image" src="https://github.com/user-attachments/assets/f55caaf1-b7f7-4154-b7dd-4824ecfa1110" />
